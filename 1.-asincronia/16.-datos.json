@@ -1,0 +1,11 @@
+{
+    "cadena": "Eung",
+    "numero": 24,
+    "booleano": true,
+    "arreglo": ["correr", "programar", "cocinar"],
+    "objeto": {
+        "email": "jmolina2624@gmail.com",
+        "instagram": "jon.brehn"
+    },
+    "nulo": null
+}
