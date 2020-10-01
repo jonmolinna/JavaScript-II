@@ -6,6 +6,8 @@ import scrollTopButton from './prueba5.js'
 import darkTheme from './prueba6.js';
 import responsiveMedia from './prueba7.js';
 import responsiveTester from './prueba8.js';
+import userDeviceInfo from './prueba9.js';
+import networkStatus from './prueba10.js';
 
 // 1.-Creando un menu de Hamburguesa
 document.addEventListener("DOMContentLoaded", e => {
@@ -33,6 +35,8 @@ document.addEventListener("DOMContentLoaded", e => {
     );
     // Prueba 8
     responsiveTester("responsive-tester");
+    // Prueba 9
+    userDeviceInfo("user-device");
 });
 
 // Prueba 3
@@ -43,3 +47,5 @@ document.addEventListener("keydown", e => {
 
 // Prueba 6
 darkTheme(".dark-theme-btn", "dark-mode");
+// Prueba 10
+networkStatus();
