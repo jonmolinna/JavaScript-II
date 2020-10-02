@@ -8,6 +8,9 @@ import responsiveMedia from './prueba7.js';
 import responsiveTester from './prueba8.js';
 import userDeviceInfo from './prueba9.js';
 import networkStatus from './prueba10.js';
+import webCam from './prueba11.js';
+import getGeolocation from './prueba12.js';
+import searchFilters from './prueba13.js';
 
 // 1.-Creando un menu de Hamburguesa
 document.addEventListener("DOMContentLoaded", e => {
@@ -37,6 +40,12 @@ document.addEventListener("DOMContentLoaded", e => {
     responsiveTester("responsive-tester");
     // Prueba 9
     userDeviceInfo("user-device");
+    // Prueba 11
+    webCam("webcam");
+    // Prueba 12
+    getGeolocation('geolocation');
+    // Prueba 13
+    searchFilters(".card-filter", ".card");
 });
 
 // Prueba 3
