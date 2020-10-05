@@ -11,6 +11,8 @@ import networkStatus from './prueba10.js';
 import webCam from './prueba11.js';
 import getGeolocation from './prueba12.js';
 import searchFilters from './prueba13.js';
+import draw from './prueba14.js';
+import slider from './prueba15.js';
 
 // 1.-Creando un menu de Hamburguesa
 document.addEventListener("DOMContentLoaded", e => {
@@ -46,6 +48,10 @@ document.addEventListener("DOMContentLoaded", e => {
     getGeolocation('geolocation');
     // Prueba 13
     searchFilters(".card-filter", ".card");
+    // Prueba 14
+    draw("#winner-btn", ".player");
+    // Prueba 15
+    slider();
 });
 
 // Prueba 3
