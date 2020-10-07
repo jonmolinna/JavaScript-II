@@ -15,6 +15,7 @@ import draw from './prueba14.js';
 import slider from './prueba15.js';
 import scrollSpy from './prueba16.js';
 import smartVideo from './prueba17.js';
+import contactFormValidations from './prueba18.js';
 
 // 1.-Creando un menu de Hamburguesa
 document.addEventListener("DOMContentLoaded", e => {
@@ -58,6 +59,8 @@ document.addEventListener("DOMContentLoaded", e => {
     scrollSpy();
     // Prueba 17
     smartVideo();
+    // Prueba 18
+    contactFormValidations();
 });
 
 // Prueba 3
