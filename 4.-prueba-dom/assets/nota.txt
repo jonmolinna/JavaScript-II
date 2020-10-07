@@ -4,3 +4,12 @@ En la prueba 17, pega un video en formato mp4
 Link de videos cortos
 ---------------------------------
 https://coverr.co/
+
+Link de Loader
+-----------------------------------------
+https://samherbert.net/svg-loaders/
+https://loading.io/
+
+Link de Submit
+--------------------------------------------
+https://formsubmit.co/
