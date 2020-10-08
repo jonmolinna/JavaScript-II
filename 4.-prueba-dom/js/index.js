@@ -16,6 +16,7 @@ import slider from './prueba15.js';
 import scrollSpy from './prueba16.js';
 import smartVideo from './prueba17.js';
 import contactFormValidations from './prueba18.js';
+import speechReader from './prueba19.js';
 
 // 1.-Creando un menu de Hamburguesa
 document.addEventListener("DOMContentLoaded", e => {
@@ -73,3 +74,5 @@ document.addEventListener("keydown", e => {
 darkTheme(".dark-theme-btn", "dark-mode");
 // Prueba 10
 networkStatus();
+// Prueba 19
+speechReader();
