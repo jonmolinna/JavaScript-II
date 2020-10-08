@@ -1,0 +1,9 @@
+Los codigos de estado de respuesta HTTP
+--------------------------------------------
+1.-Respuestas Informativas (100 - 199)
+2.-Respuestas Satisfactorias (200 - 299)
+3.-Redirecciones (300 - 399)
+4.-Errores de los Clientes (400 - 499)
+5.-Errores de los Servidores (500 - 599)
+
+https://developer.mozilla.org/es/docs/Web/HTTP/Status
