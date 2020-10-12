@@ -1,0 +1,12 @@
+Peticiones Http
+-----------------------------
+INSERT              POST
+SELECT              GET
+UPDATE              PUT
+DELETE              DELETE
+
+Instalamos json-server
+------------------------------
+npm install -g json-server => de manera global
+json-server --watch db.json => ejecuta en la ubicacion del archivo
+json-server -w -p 5000 db.json => cambiar de puerto
