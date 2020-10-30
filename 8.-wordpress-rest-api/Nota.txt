@@ -1,0 +1,18 @@
+The Loop
+-----------------------------------------------------------
+https://codex.wordpress.org/The_Loop
+
+
+REST API Developer Endpoint Reference
+-------------------------------------------------------------
+https://developer.wordpress.org/rest-api/reference/
+
+
+Posts
+-------------------------------------------------------------
+https://developer.wordpress.org/rest-api/reference/posts/
+
+
+Ultimos Post
+--------------------------------------------
+https://malvestida.com/wp-json/wp/v2/posts
